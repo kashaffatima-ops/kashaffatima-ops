@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%24+running+test_suite.spec.js;%E2%9C%93+manual_testing.....................PASS;%E2%9C%93+cypress_automation................PASS;%E2%9C%93+junit_code_coverage...............PASS;%E2%9C%93+defect_triage_in_jira.............PASS;%E2%9C%93+vr_exposure_therapy_qa............PASS;47+passed%2C+0+failed%2C+ship+it+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=180&color=00E5FF&vCenter=true&size=18&pause=1200&background=0A0A1AFF&multiline=true&repeat=true"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%24+running+test_suite.spec.js;%E2%9C%93+manual_testing.....................PASS;%E2%9C%93+cypress_automation................PASS;%E2%9C%93+junit_code_coverage...............PASS;%E2%9C%93+defect_triage_in_jira.............PASS;%E2%9C%93+vr_exposure_therapy_qa............PASS;&font=Fira+Code&center=true&width=650&height=180&color=00E5FF&vCenter=true&size=18&pause=1200&background=0A0A1AFF&multiline=true&repeat=true"/>
 
 </div>
 
@@ -40,11 +40,10 @@ Software Engineering graduate from FAST NUCES with a habit of poking holes in so
 
 I've QA'd e-commerce checkouts, a Unity FPS, a Flutter society-management app, and a VR exposure therapy simulator. Different stacks, same instinct: find the edge case nobody planned for.
 
-- 🎓 BS Software Engineering @ FAST NUCES, CGPA 3.37, Silver Medalist
-- ☁️ AWS Certified Cloud Practitioner (2026)
-- 📍 Islamabad, Pakistan
-- 🔭 Teaching Assistant & Lab Demonstrator at FAST NUCES
-- 💬 Ask me about test case design, STLC, or defect triage
+🎓 BS Software Engineering @ FAST NUCES, CGPA 3.37, Silver Medalist
+☁️ AWS Certified Cloud Practitioner (2026)
+📍 Islamabad, Pakistan
+💬 Ask me about test case design, STLC, or defect triage
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -52,8 +51,7 @@ I've QA'd e-commerce checkouts, a Unity FPS, a Flutter society-management app, a
 |  |  |
 |---|---|
 | 🧪 **QA Projects** | 5+ |
-| 📋 **Test Cases Written** | 47+ |
-| 🎓 **CGPA** | 3.37 |
+| 🎓 **CGPA** | 3.42 |
 | ☁️ **AWS Certified** | ✅ |
 
 </td>
@@ -232,13 +230,12 @@ Final Year Project: a VR-based exposure therapy simulator for phobia treatment, 
 ## 🎓 Eᴅᴜᴄᴀᴛɪᴏɴ & Cᴇʀᴛɪfɪᴄᴀᴛɪᴏɴs
 
 **BS Software Engineering** • National University of Computer and Emerging Sciences (FAST NUCES), Islamabad
-`2022 – 2026` · CGPA 3.37 · 🥈 Silver Medalist (7th Semester)
+`2022 – 2026` · CGPA 3.42 · 🥈 Silver Medalist (7th Semester)
 
-- ✅ Dean's List of Honors, 6th, 7th & 8th Semester
-- ✅ Silver Medal for Outstanding Academic Performance
-- ✅ AWS Certified Cloud Practitioner (2026)
-- ✅ Teaching Assistant across multiple CS courses
-
+- Dean's List of Honors, 6th, 7th & 8th Semester
+- Silver Medal for Outstanding Academic Performance
+- AWS Certified Cloud Practitioner (2026)
+  
 <br/>
 
 ## 📊 GɪᴛHᴜʙ Sᴛᴀᴛs
