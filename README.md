@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%24+running+test_suite.spec.js;%E2%9C%93+manual_testing.....................PASS;%E2%9C%93+cypress_automation................PASS;%E2%9C%93+junit_code_coverage...............PASS;%E2%9C%93+defect_triage_in_jira.............PASS;%E2%9C%93+vr_exposure_therapy_qa............PASS;&font=Fira+Code&center=true&width=650&height=180&color=00E5FF&vCenter=true&size=18&pause=1200&background=0A0A1AFF&multiline=true&repeat=true"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%24+running+test_suite.spec.js;%E2%9C%93+manual_testing.....................PASS;%E2%9C%93+cypress_automation................PASS;%E2%9C%93+mern_stack_app_qa.................PASS;%E2%9C%93+flutter_mobile_app_qa.............PASS;%E2%9C%93+junit_code_coverage...............PASS;%E2%9C%93+defect_triage_in_jira.............PASS;%E2%9C%93+vr_unity_fyp_qa....................PASS;&font=Fira+Code&center=true&width=650&height=180&color=00E5FF&vCenter=true&size=18&pause=1200&background=0A0A1AFF&multiline=true&repeat=true"/>
 
 </div>
 
@@ -38,7 +38,7 @@
 
 Software Engineering graduate from FAST NUCES with a habit of poking holes in software until it stops breaking. I design test cases, automate regression suites in Cypress and JUnit, and chase defects through Jira until they're closed for good.
 
-I've QA'd e-commerce checkouts, a Unity FPS, a Flutter society-management app, and a VR exposure therapy simulator. Different stacks, same instinct: find the edge case nobody planned for.
+I've QA'd a MERN-stack web application, a Flutter-based mobile application, a Unity FPS, and a VR-based Unity exposure therapy simulator (my FYP). Different stacks, same instinct: find the edge case nobody planned for.
 
 🎓 BS Software Engineering @ FAST NUCES, CGPA 3.37, Silver Medalist
 ☁️ AWS Certified Cloud Practitioner (2026)
@@ -154,6 +154,21 @@ Evaluate programming assignments and test suites for 100+ CS students; conduct c
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Application Stacks Tested</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![VR](https://img.shields.io/badge/VR%2FOpenXR-0088CC?style=for-the-badge&logo=meta&logoColor=white)
 
 </details>
 
