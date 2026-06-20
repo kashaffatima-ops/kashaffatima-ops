@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%24+running+test_suite.spec.js;%E2%9C%93+manual_testing.....................PASS;%E2%9C%93+cypress_automation................PASS;%E2%9C%93+mern_stack_app_qa.................PASS;%E2%9C%93+flutter_mobile_app_qa.............PASS;%E2%9C%93+junit_code_coverage...............PASS;%E2%9C%93+defect_triage_in_jira.............PASS;%E2%9C%93+vr_unity_fyp_qa....................PASS;&font=Fira+Code&center=true&width=650&height=180&color=00E5FF&vCenter=true&size=18&pause=1200&background=0A0A1AFF&multiline=true&repeat=true"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%24+running+test_suite.spec.js;%E2%9C%93+manual_testing.....................PASS;%E2%9C%93+cypress_automation................PASS;%E2%9C%93+mern_stack_app_qa.................PASS;%E2%9C%93+flutter_mobile_app_qa.............PASS;%E2%9C%93+junit_code_coverage...............PASS;%E2%9C%93+defect_triage_in_jira.............PASS;&font=Fira+Code&center=true&width=650&height=180&color=00E5FF&vCenter=true&size=18&pause=1200&background=0A0A1AFF&multiline=true&repeat=true"/>
 
 </div>
 
